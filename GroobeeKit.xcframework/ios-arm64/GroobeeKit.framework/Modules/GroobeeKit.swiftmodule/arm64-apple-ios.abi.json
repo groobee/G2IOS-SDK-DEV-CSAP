@@ -3046,6 +3046,56 @@
           },
           {
             "kind": "Var",
+            "name": "AUTH_DOMAIN_CSAP_DEBUG",
+            "printedName": "AUTH_DOMAIN_CSAP_DEBUG",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10GroobeeKit17ServicesConstantsV22AUTH_DOMAIN_CSAP_DEBUGSSvpZ",
+            "mangledName": "$s10GroobeeKit17ServicesConstantsV22AUTH_DOMAIN_CSAP_DEBUGSSvpZ",
+            "moduleName": "GroobeeKit",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10GroobeeKit17ServicesConstantsV22AUTH_DOMAIN_CSAP_DEBUGSSvgZ",
+                "mangledName": "$s10GroobeeKit17ServicesConstantsV22AUTH_DOMAIN_CSAP_DEBUGSSvgZ",
+                "moduleName": "GroobeeKit",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "SERVICE_DOMAIN_DEBUG",
             "printedName": "SERVICE_DOMAIN_DEBUG",
             "children": [
@@ -3097,6 +3147,56 @@
           },
           {
             "kind": "Var",
+            "name": "SERVICE_DOMAIN_CSAP_DEBUG",
+            "printedName": "SERVICE_DOMAIN_CSAP_DEBUG",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10GroobeeKit17ServicesConstantsV25SERVICE_DOMAIN_CSAP_DEBUGSSvpZ",
+            "mangledName": "$s10GroobeeKit17ServicesConstantsV25SERVICE_DOMAIN_CSAP_DEBUGSSvpZ",
+            "moduleName": "GroobeeKit",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10GroobeeKit17ServicesConstantsV25SERVICE_DOMAIN_CSAP_DEBUGSSvgZ",
+                "mangledName": "$s10GroobeeKit17ServicesConstantsV25SERVICE_DOMAIN_CSAP_DEBUGSSvgZ",
+                "moduleName": "GroobeeKit",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "STATS_DOMAIN_DEBUG",
             "printedName": "STATS_DOMAIN_DEBUG",
             "children": [
@@ -3135,6 +3235,56 @@
                 "declKind": "Accessor",
                 "usr": "s:10GroobeeKit17ServicesConstantsV18STATS_DOMAIN_DEBUGSSvgZ",
                 "mangledName": "$s10GroobeeKit17ServicesConstantsV18STATS_DOMAIN_DEBUGSSvgZ",
+                "moduleName": "GroobeeKit",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "STATS_DOMAIN_CSAP_DEBUG",
+            "printedName": "STATS_DOMAIN_CSAP_DEBUG",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10GroobeeKit17ServicesConstantsV23STATS_DOMAIN_CSAP_DEBUGSSvpZ",
+            "mangledName": "$s10GroobeeKit17ServicesConstantsV23STATS_DOMAIN_CSAP_DEBUGSSvpZ",
+            "moduleName": "GroobeeKit",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10GroobeeKit17ServicesConstantsV23STATS_DOMAIN_CSAP_DEBUGSSvgZ",
+                "mangledName": "$s10GroobeeKit17ServicesConstantsV23STATS_DOMAIN_CSAP_DEBUGSSvgZ",
                 "moduleName": "GroobeeKit",
                 "static": true,
                 "implicit": true,
@@ -3198,6 +3348,56 @@
           },
           {
             "kind": "Var",
+            "name": "AUTH_DOMAIN_CSAP_RELEASE",
+            "printedName": "AUTH_DOMAIN_CSAP_RELEASE",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10GroobeeKit17ServicesConstantsV24AUTH_DOMAIN_CSAP_RELEASESSvpZ",
+            "mangledName": "$s10GroobeeKit17ServicesConstantsV24AUTH_DOMAIN_CSAP_RELEASESSvpZ",
+            "moduleName": "GroobeeKit",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10GroobeeKit17ServicesConstantsV24AUTH_DOMAIN_CSAP_RELEASESSvgZ",
+                "mangledName": "$s10GroobeeKit17ServicesConstantsV24AUTH_DOMAIN_CSAP_RELEASESSvgZ",
+                "moduleName": "GroobeeKit",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "SERVICE_DOMAIN_RELEASE",
             "printedName": "SERVICE_DOMAIN_RELEASE",
             "children": [
@@ -3248,6 +3448,56 @@
           },
           {
             "kind": "Var",
+            "name": "SERVICE_DOMAIN_CSAP_RELEASE",
+            "printedName": "SERVICE_DOMAIN_CSAP_RELEASE",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10GroobeeKit17ServicesConstantsV27SERVICE_DOMAIN_CSAP_RELEASESSvpZ",
+            "mangledName": "$s10GroobeeKit17ServicesConstantsV27SERVICE_DOMAIN_CSAP_RELEASESSvpZ",
+            "moduleName": "GroobeeKit",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10GroobeeKit17ServicesConstantsV27SERVICE_DOMAIN_CSAP_RELEASESSvgZ",
+                "mangledName": "$s10GroobeeKit17ServicesConstantsV27SERVICE_DOMAIN_CSAP_RELEASESSvgZ",
+                "moduleName": "GroobeeKit",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "STATS_DOMAIN_RELEASE",
             "printedName": "STATS_DOMAIN_RELEASE",
             "children": [
@@ -3286,6 +3536,56 @@
                 "declKind": "Accessor",
                 "usr": "s:10GroobeeKit17ServicesConstantsV20STATS_DOMAIN_RELEASESSvgZ",
                 "mangledName": "$s10GroobeeKit17ServicesConstantsV20STATS_DOMAIN_RELEASESSvgZ",
+                "moduleName": "GroobeeKit",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "STATS_DOMAIN_CSAP_RELEASE",
+            "printedName": "STATS_DOMAIN_CSAP_RELEASE",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10GroobeeKit17ServicesConstantsV25STATS_DOMAIN_CSAP_RELEASESSvpZ",
+            "mangledName": "$s10GroobeeKit17ServicesConstantsV25STATS_DOMAIN_CSAP_RELEASESSvpZ",
+            "moduleName": "GroobeeKit",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10GroobeeKit17ServicesConstantsV25STATS_DOMAIN_CSAP_RELEASESSvgZ",
+                "mangledName": "$s10GroobeeKit17ServicesConstantsV25STATS_DOMAIN_CSAP_RELEASESSvgZ",
                 "moduleName": "GroobeeKit",
                 "static": true,
                 "implicit": true,
@@ -16251,6 +16551,48 @@
           },
           {
             "kind": "Var",
+            "name": "CSAP_DEV",
+            "printedName": "CSAP_DEV",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(GroobeeKit.DebugMode.Type) -> GroobeeKit.DebugMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DebugMode",
+                    "printedName": "GroobeeKit.DebugMode",
+                    "usr": "c:@M@GroobeeKit@E@DebugMode"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "GroobeeKit.DebugMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DebugMode",
+                        "printedName": "GroobeeKit.DebugMode",
+                        "usr": "c:@M@GroobeeKit@E@DebugMode"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@GroobeeKit@E@DebugMode@DebugModeCSAP_DEV",
+            "mangledName": "$s10GroobeeKit9DebugModeO8CSAP_DEVyA2CmF",
+            "moduleName": "GroobeeKit",
+            "declAttributes": [
+              "RawDocComment",
+              "ObjC"
+            ],
+            "fixedbinaryorder": 3
+          },
+          {
+            "kind": "Var",
             "name": "authDomain",
             "printedName": "authDomain",
             "children": [
@@ -28720,784 +29062,840 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
       "kind": "BooleanLiteral",
       "offset": 519,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
       "kind": "IntegerLiteral",
       "offset": 691,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
       "kind": "IntegerLiteral",
       "offset": 697,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
       "kind": "IntegerLiteral",
       "offset": 707,
       "length": 2,
       "value": "66"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
       "kind": "IntegerLiteral",
       "offset": 719,
       "length": 2,
       "value": "66"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
       "kind": "IntegerLiteral",
       "offset": 946,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
       "kind": "IntegerLiteral",
       "offset": 1115,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyButtonView.swift",
       "kind": "IntegerLiteral",
       "offset": 1664,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/GroobeeKit.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/GroobeeKit.swift",
       "kind": "StringLiteral",
       "offset": 35,
       "length": 28,
       "value": "\"Groobee iOS SDK Initialize\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyBannerView.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StickyBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 667,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
       "offset": 238,
       "length": 32,
       "value": "\"https:\/\/g2-auth-qa1.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
       "offset": 325,
       "length": 35,
       "value": "\"https:\/\/g2-service-qa1.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
       "offset": 413,
       "length": 33,
       "value": "\"https:\/\/g2-stats-qa1.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
       "offset": 508,
       "length": 32,
       "value": "\"https:\/\/g2-auth-qa2.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
       "offset": 595,
       "length": 35,
       "value": "\"https:\/\/g2-service-qa2.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
       "offset": 683,
       "length": 33,
       "value": "\"https:\/\/g2-stats-qa2.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
       "offset": 777,
       "length": 32,
       "value": "\"https:\/\/g2-auth-app.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 943,
+      "offset": 857,
+      "length": 32,
+      "value": "\"https:\/\/gau-dev.groobeecsap.io\""
+    },
+    {
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "kind": "StringLiteral",
+      "offset": 1023,
       "length": 31,
       "value": "\"https:\/\/g2-service.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1023,
+      "offset": 1105,
+      "length": 32,
+      "value": "\"https:\/\/gse-dev.groobeecsap.io\""
+    },
+    {
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "kind": "StringLiteral",
+      "offset": 1186,
       "length": 29,
       "value": "\"https:\/\/g2-stats.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1115,
+      "offset": 1264,
+      "length": 32,
+      "value": "\"https:\/\/gst-dev.groobeecsap.io\""
+    },
+    {
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "kind": "StringLiteral",
+      "offset": 1359,
       "length": 24,
       "value": "\"https:\/\/gau.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1192,
+      "offset": 1433,
+      "length": 28,
+      "value": "\"https:\/\/gau.groobeecsap.io\""
+    },
+    {
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "kind": "StringLiteral",
+      "offset": 1514,
       "length": 24,
       "value": "\"https:\/\/gse.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1267,
+      "offset": 1591,
+      "length": 28,
+      "value": "\"https:\/\/gse.groobeecsap.io\""
+    },
+    {
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "kind": "StringLiteral",
+      "offset": 1670,
       "length": 24,
       "value": "\"https:\/\/gst.groobee.io\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1345,
+      "offset": 1745,
+      "length": 28,
+      "value": "\"https:\/\/gst.groobeecsap.io\""
+    },
+    {
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "kind": "StringLiteral",
+      "offset": 1827,
       "length": 11,
       "value": "\"\/auth\/app\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1404,
+      "offset": 1886,
       "length": 16,
       "value": "\"\/auth\/checkapp\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1466,
+      "offset": 1948,
       "length": 14,
       "value": "\"\/auth\/agreed\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1531,
+      "offset": 2013,
       "length": 19,
       "value": "\"\/auth\/sync\/agreed\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1601,
+      "offset": 2083,
       "length": 18,
       "value": "\"\/auth\/useragreed\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1668,
+      "offset": 2150,
       "length": 17,
       "value": "\"\/auth\/pushtoken\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1729,
+      "offset": 2211,
       "length": 12,
       "value": "\"\/auth\/adid\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1784,
+      "offset": 2266,
       "length": 11,
       "value": "\"\/auth\/etc\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1839,
+      "offset": 2321,
       "length": 12,
       "value": "\"\/auth\/sync\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1927,
+      "offset": 2409,
       "length": 14,
       "value": "\"\/appcampaign\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 1996,
+      "offset": 2478,
       "length": 19,
       "value": "\"\/custom\/recommend\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 2088,
+      "offset": 2570,
       "length": 13,
       "value": "\"\/data\/procM\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 2158,
+      "offset": 2640,
       "length": 12,
       "value": "\"\/data\/rcpe\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 2207,
+      "offset": 2689,
       "length": 13,
       "value": "\"\/data\/rcpre\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/ServicesConstraints.swift",
       "kind": "StringLiteral",
-      "offset": 2256,
+      "offset": 2738,
       "length": 12,
       "value": "\"\/data\/rcpc\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
       "kind": "StringLiteral",
       "offset": 196,
       "length": 5,
       "value": "\"cid\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
       "kind": "StringLiteral",
       "offset": 250,
       "length": 9,
       "value": "\"img_url\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
       "kind": "StringLiteral",
       "offset": 303,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
       "kind": "StringLiteral",
       "offset": 356,
       "length": 14,
       "value": "\"push_msg_cnt\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
       "kind": "StringLiteral",
       "offset": 419,
       "length": 11,
       "value": "\"deep_link\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
       "kind": "StringLiteral",
       "offset": 478,
       "length": 10,
       "value": "\"url_link\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
       "kind": "StringLiteral",
       "offset": 537,
       "length": 9,
       "value": "\"sendDtm\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
       "kind": "StringLiteral",
       "offset": 589,
       "length": 9,
       "value": "\"service\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/PushMessage\/ConstraintsPush.swift",
       "kind": "StringLiteral",
       "offset": 643,
       "length": 9,
       "value": "\"GROOBEE\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Groobee.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Groobee.swift",
       "kind": "StringLiteral",
       "offset": 479,
       "length": 10,
       "value": "\"Groobee \""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Groobee.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Groobee.swift",
       "kind": "BooleanLiteral",
       "offset": 839,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Groobee.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Groobee.swift",
       "kind": "BooleanLiteral",
       "offset": 919,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Groobee.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Groobee.swift",
       "kind": "BooleanLiteral",
       "offset": 1000,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/GroobeeKitLifeCycle.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/GroobeeKitLifeCycle.swift",
       "kind": "BooleanLiteral",
       "offset": 703,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/GroobeeServiceManager.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/GroobeeServiceManager.swift",
       "kind": "StringLiteral",
       "offset": 301,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/GroobeeServiceManager.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/GroobeeServiceManager.swift",
       "kind": "StringLiteral",
       "offset": 352,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/GroobeeServiceManager.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/GroobeeServiceManager.swift",
       "kind": "StringLiteral",
       "offset": 411,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/GroobeeServiceManager.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/GroobeeServiceManager.swift",
       "kind": "StringLiteral",
       "offset": 503,
       "length": 17,
       "value": "\"SELF MATCHES %@\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
       "offset": 286,
-      "length": 8,
-      "value": "\"1.0.45\""
+      "length": 7,
+      "value": "\"1.0.1\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 344,
+      "offset": 343,
       "length": 19,
       "value": "\"GroobeeServiceKey\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 407,
+      "offset": 406,
       "length": 13,
       "value": "\"AppBundleId\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 476,
+      "offset": 475,
       "length": 23,
       "value": "\"MarginInAppMessageTop\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 558,
+      "offset": 557,
       "length": 26,
       "value": "\"MarginInAppMessageBottom\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 633,
+      "offset": 632,
       "length": 10,
       "value": "\"CookieId\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 685,
+      "offset": 684,
       "length": 8,
       "value": "\"UserId\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 733,
+      "offset": 732,
       "length": 6,
       "value": "\"adId\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 783,
+      "offset": 782,
       "length": 10,
       "value": "\"MemberId\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 835,
+      "offset": 834,
       "length": 8,
       "value": "\"isSync\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 889,
+      "offset": 888,
       "length": 12,
       "value": "\"memberData\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 948,
+      "offset": 947,
       "length": 12,
       "value": "\"iosSendDtm\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1004,
+      "offset": 1003,
       "length": 10,
       "value": "\"syncTime\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1055,
+      "offset": 1054,
       "length": 27,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1139,
+      "offset": 1138,
       "length": 25,
       "value": "\"CampaignInfoPushMessage\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1224,
+      "offset": 1223,
       "length": 32,
       "value": "\"CampaignInfoCurrentPushMessage\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1311,
+      "offset": 1310,
       "length": 23,
       "value": "\"DirectOpenCampaignKey\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1381,
+      "offset": 1380,
       "length": 18,
       "value": "\"grb_recent_goods\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1442,
+      "offset": 1441,
       "length": 17,
       "value": "\"recentGoodsList\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1497,
+      "offset": 1496,
       "length": 13,
       "value": "\"campaignKey\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1548,
+      "offset": 1547,
       "length": 13,
       "value": "\"algorithmCd\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Model\/Global\/GroobeeConfig.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Model\/Global\/GroobeeConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 2200,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Model\/Global\/GroobeeConfig.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Model\/Global\/GroobeeConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 2324,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Model\/Global\/GroobeeConfig.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Model\/Global\/GroobeeConfig.swift",
       "kind": "StringLiteral",
       "offset": 827,
       "length": 13,
       "value": "\"GroobeeKit.GroobeeConfig\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 358,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 414,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 459,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 518,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 568,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 614,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 662,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 713,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 761,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 810,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "StringLiteral",
       "offset": 890,
       "length": 9,
       "value": "\"#000000\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "FloatLiteral",
       "offset": 948,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 1003,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "StringLiteral",
       "offset": 1045,
       "length": 7,
       "value": "\"POPUP\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "StringLiteral",
       "offset": 1126,
       "length": 16,
       "value": "\"STICKY_DEFAULT\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 1232,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 1295,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "StringLiteral",
       "offset": 1344,
       "length": 15,
       "value": "\"STICKY_BUTTON\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 1423,
       "length": 2,
       "value": "48"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/StyleConstraints.swift",
       "kind": "IntegerLiteral",
       "offset": 1470,
       "length": 2,
       "value": "80"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 3,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
       "kind": "IntegerLiteral",
       "offset": 286,
       "length": 3,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 325,
+      "length": 8,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 3,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
       "kind": "IntegerLiteral",
       "offset": 286,
       "length": 3,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/ModelBuilder.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/DebugMode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 325,
+      "length": 8,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/ModelBuilder.swift",
       "kind": "StringLiteral",
       "offset": 158,
       "length": 4,
       "value": "\"MA\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/Common\/ModelBuilder.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/Common\/ModelBuilder.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 4,
       "value": "\"IS\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/Extensions.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 2459,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/InAppMessage\/InAppMessageDisplay.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/InAppMessage\/InAppMessageDisplay.swift",
       "kind": "IntegerLiteral",
       "offset": 426,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
       "kind": "StringLiteral",
       "offset": 128,
       "length": 27,
       "value": "\"http:\/\/shop3.grooshop.com\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 9,
       "value": "\"grb_ck@\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
       "kind": "StringLiteral",
       "offset": 242,
       "length": 9,
       "value": "\"grb_ui@\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
       "kind": "StringLiteral",
       "offset": 298,
       "length": 19,
       "value": "\"grb_recent_goods@\""
     },
     {
-      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev\/GroobeeKit-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
+      "filePath": "\/Users\/hataejong\/Desktop\/work\/dev_csap\/GroobeeKitCSAP-Dev\/Sources\/GroobeeKit\/WebConfigure\/WebViewConfigure.swift",
       "kind": "StringLiteral",
       "offset": 358,
       "length": 14,

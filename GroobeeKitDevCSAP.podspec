@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'GroobeeKitDev'
-  s.version          = '1.0.45'
-  s.summary          = 'GroobeeKitDev Framework Library'
+  s.name             = 'GroobeeKitDevCSAP'
+  s.version          = '1.0.1'
+  s.summary          = 'GroobeeKitDevCSAP Framework Library'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                      GroobeeKitDev Extended Framework For Hybrid Application of Swift
+                      GroobeeKitDevCSAP Extended Framework For Hybrid Application of Swift
                       DESC
 
   s.homepage         = 'http://plateer.com'
@@ -28,8 +28,8 @@ Pod::Spec.new do |s|
                           LICENSE
                         }
 
-  s.author           = { 'GroobeeKitDev' => 'hongoon@plateer.com' }
-  s.source           = { :git => 'https://github.com/groobee/groobee-ios-sdk-dev.git' }
+  s.author           = { 'GroobeeKitDevCSAP' => 'hongoon@plateer.com' }
+  s.source           = { :git => 'https://github.com/groobee/G2IOS-SDK-DEV-CSAP.git' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.vendored_frameworks = "GroobeeKit.xcframework"
   s.platform = :ios
